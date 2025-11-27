@@ -23,8 +23,6 @@ He He
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=fff)
 ![Kafka](https://img.shields.io/badge/-Kafka-000000?logo=apachekafka&logoColor=fff)
 ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=fff)
-
-#### ☕ Java Backend
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 
